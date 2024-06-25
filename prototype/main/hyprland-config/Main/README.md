@@ -12,10 +12,8 @@
 
 | Config File Path |
 | --- |
-| [~/.config/labwc/rc.xml](./asset/overlay/etc/skel/.config/labwc/rc.xml) |
-| [~/.config/labwc/menu.xml](./asset/overlay/etc/skel/.config/labwc/menu.xml) |
-| [~/.config/labwc/autostart](./asset/overlay/etc/skel/.config/labwc/autostart) |
-| [~/.config/labwc/environment](./asset/overlay/etc/skel/.config/labwc/environment) |
+| [~/.config/hypr/hyprland.conf](./asset/overlay/etc/skel/.config/hypr/hyprland.conf) |
+| [~/.config/hypr/hyprpaper.conf](./asset/overlay/etc/skel/.config/hypr/hyprpaper.conf) |
 
 
 ### Wallpaper
@@ -84,9 +82,9 @@
 | [wlogout](https://packages.fedoraproject.org/pkgs/wlogout/wlogout/) |
 
 
-## Manual
+## Docs
 
-* [labwc-config](https://labwc.github.io/labwc-config.5.html)
+* [Master Layout](https://wiki.hyprland.org/Configuring/Master-Layout/)
 
 
 
