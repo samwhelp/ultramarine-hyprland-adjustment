@@ -77,7 +77,7 @@
 
 | Fedora Package |
 | --- |
-| [wayfire](https://packages.fedoraproject.org/pkgs/wayfire/wayfire/) |
+| [hyprland](https://packages.fedoraproject.org/pkgs/hyprland/hyprland/) |
 | [wf-shell](https://packages.fedoraproject.org/pkgs/wf-shell/wf-shell/) |
 | [wlogout](https://packages.fedoraproject.org/pkgs/wlogout/wlogout/) |
 
