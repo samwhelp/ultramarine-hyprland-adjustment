@@ -165,7 +165,7 @@
 
 ## Docs
 
-* [Master Layout](https://wiki.hyprland.org/Configuring/Master-Layout/)
+* [Dwindle Layout](https://wiki.hyprland.org/Configuring/Dwindle-Layout/)
 
 
 
